@@ -4,7 +4,7 @@ public class Student {
     private String name;
     private String dob; 
     private String degree;
-    private String[] codes = new String[10];
+    private String[] codes;
     private int cnt = 0;
 
     public Student(int number, String name, String dob, String degree){
@@ -12,6 +12,7 @@ public class Student {
         this.name = name;
         this.dob = dob;
         this.degree = degree;
+        this.codes = new String[10];
     }
 
     public void addCode(String code){
@@ -26,18 +27,11 @@ public class Student {
     }
 
     public String toString(){
-        String str = "Student Number: "+number+"\nStudent Name: "+name+"\nDate of birth: "+dob+"\nDegree: "+degree+"\nEnrolled subjects (Separated by whitespace): ";
+        String str = "Student Number: "+number+"\nStudent Name: "+name+"\nDate of birth: "+dob+"\nDegree: "+degree+"\nSubjects: ";
         for(int i = 0; i<cnt;i++ ){
             str = str + codes[i] + " " ;
         }
 
         return str;
     }
-
-    // public static void main(String[] args) {
-    //     Student st = new Student(12, "Lagan" , "01/05/2003", "Bachelors");
-    //     String str = st.toString();
-    //     System.out.println(str);
-    // }
-
 }

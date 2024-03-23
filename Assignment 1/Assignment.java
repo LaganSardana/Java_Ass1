@@ -4,7 +4,7 @@ public class Assignment {
     private String dueDate; 
     private int totalWorth;
 
-    Assignment(String code, int number, String dueDate, int totalWorth){
+    public Assignment(String code, int number, String dueDate, int totalWorth){
         this.code = code;
         this.number = number;
         this.dueDate = dueDate;
