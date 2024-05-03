@@ -1,0 +1,121 @@
+1, 10001, PKR768, 01-12-2021
+5
+1, Sydney, Melbourne
+2, Melbourne, Hobart
+3, Hobart, Perth
+4, Perth, Adelaide
+5, Adelaide, Wollongong
+2, 10001, SYF777, 02-20-2021
+1
+1, Sydney, Melbourne
+3, 10001, KKK007, 03-12-2021
+1
+1, Sydney, Melbourne
+4, 10001, PKR768, 06-29-2021
+1
+1, Sydney, Melbourne
+5, 20002, PKR768, 01-12-2021
+1
+1, Melbourne, Sydney
+6, 10002, SYF777, 02-20-2021
+1
+1, Melbourne, Sydney
+7, 30005, KKK007, 03-12-2021
+1
+1, Melbourne, Sydney
+8, 10001, PKR768, 01-13-2021
+3
+1, Sydney, Newcastle
+2, Newcastle, Brisbane
+3, Brisbane, Perth
+9, 10002, QRT834, 09-17-2021
+1
+1, Sydney, Melbourne
+10, 30005, KKK007, 12-15-2022
+1
+1, Sydney, Wollongong
+11, 10003, SST005, 01-23-2022
+1
+1, Melbourne, Sydney
+12, 10002, PKR768, 03-12-2022
+1
+1, Melbourne, Sydney
+13, 20002, QRT834, 04-23-2022
+2
+1, Sydney, Melbourne
+2, Melbourne, Sydney
+14, 20002, PKR008, 04-23-2022
+1
+1, Wollongong, Sydney
+15, 30005, PKR768, 05-24-2022
+1
+1, Sydney, Melbourne
+16, 30005, SST005, 08-02-2022
+1
+1, Sydney, Wollongong
+17, 20002, QRT834, 09-17-2022
+2
+1, Sydney, Wollongong
+2, Wollongong, Sydney
+18, 10001, KKK007, 12-15-2022
+1
+1, Melbourne, Sydney
+19, 30005, SST005, 01-23-2022
+1
+1, Melbourne, Sydney
+20, 10003, PKR768, 03-12-2022
+1
+1, Sydney, Melbourne
+21, 10001, QRT834, 04-23-2022
+1
+1, Wollongong, Sydney
+22, 30005, PKR008, 04-23-2022
+1
+1, Melbourne, Sydney
+23, 10003, PKR768, 05-25-2022
+1
+1, Wollongong, Sydney
+24, 20002, SST005, 08-02-2022
+1
+1, Sydney, Melbourne
+25, 10001, PKR768, 01-12-2023
+4
+1, Melbourne, Sydney
+2, Sydney, Perth
+3, Perth, Sydney
+4, Sydney, Brisbane
+26, 10001, SYF777, 02-20-2023
+1
+1, Brisbane, Sydney
+27, 20002, KKK007, 03-12-2023
+1
+1, Sydney, Wollongong
+28, 30005, PKR768, 06-29-2023
+2
+1, Sydney, Melbourne
+2, Melbourne, Perth
+29, 10001, QRT834, 06-17-2023
+1
+1, Sydney, Perth
+30, 10002, KKK007, 06-15-2023
+2
+1, Melbourne, Sydney
+2, Sydney, Melbourne
+31, 10003, SST005, 01-23-2023
+1
+1, Sydney, Melbourne
+32, 20002, PKR768, 03-12-2023
+1
+1, Sydney, Melbourne
+33, 30005, QRT834, 04-23-2023
+1
+1, Sydney, Melbourne
+34, 30005, PKR008, 04-23-2023
+1
+1, Wollongong, Sydney
+35, 10001, PKR768, 05-24-2023
+4
+1, Sydney, Melbourne
+2, Melbourne, Adelaide
+3, Adelaide, Perth
+4, Perth, Sydney

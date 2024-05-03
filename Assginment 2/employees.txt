@@ -1,0 +1,20 @@
+D, 1, John Smith, 02-12-1971, 42 Victoria St. Hurstville NSW 2456, 10001, AVAILABLE
+D, 2, Peter Taylor, 01-12-1970, 42 Victoria St. Hurstville NSW 2456, 10008, ON LEAVE
+D, 3, John Doe, 03-23-1966, 12 Station St. Dapto NSW 2530, 10002, AVAILABLE
+D, 4, John Gray, 05-05-1988, 16 Station St. Dapto NSW 2530, 10004, AVAILABLE
+D, 5, Adam Taylor, 01-01-1980, 42 Church St. City NSW 2300, 10003, ON LEAVE
+D, 6, Michael Jones, 03-05-1975, 23 Waterloo Ave. Surry Hills NSW 2502, 10012, AVAILABLE
+D, 7, Frederic Jones, 02-10-1978, 3 Victoria St. Redfern NSW 2420, 20002, BUSY
+D, 8, Peter O'Brien, 02-28-1983, 19 Lucas Dr. Horsley NSW 2530, 20003, 'BUSY'
+A, 9, John Lucas, 12-16-1966, 20 Huxley St. Horsley NSW 2530, SUPPORT
+A, 10, John Fox, 10-15-1975, 18 Victoria St. Hurstville NSW 2456, DIRECTOR
+D, 11, Adam Fox, 08-10-1974, 45 Victoria St. Hurstville NSW 2456, 30005, BUSY
+D, 12, Phillip Cox, 12-12-1985, 5 The Avenue Rockdale NSW 2300, 40002, BUSY
+D, 13, Andrew K Smith, 04-04-1969, 42 Bambaramba Ave. Pennant Hills NSW 2556, 20045, AVAILABLE
+A, 14, Andrew R Smith, 04-01-1992, 67 King Cr. Hurstville NSW 2456, CEO
+A, 15, Michael Potter, 04-01-1995, 568 Bong Bong St. Horsley NSW 2530, SUPPORT
+D, 16, Harry Potter, 04-01-1987, 568 Bong Bong St. Horsley NSW 2530, 20055, AVAILABLE
+D, 17, James Bond, 02-14-1989, 7 Alan Bond St. Perth WA 6000, 20065, AVAILABLE
+D, 18, Paris Hilton, 05-01-1977, 1 Hilton St. Melbourne VIC 3000, 10305, AVAILABLE
+A, 19, Lady Gaga, 06-01-1992, 3 Pork st. Hobart TAS 7000, SUPPORT
+D, 20, Robin Hood, 05-23-1999, 6 Nottingham Pl. Sydney NSW 2000, 10345, AVAILABLE
